@@ -23,5 +23,4 @@ def fibonacci(n):
         return 0
     elif n == 1:
         return 1
-    else:
-        return 1
+    else:fb57331c1
