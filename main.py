@@ -2,5 +2,5 @@ print("Hola soy Felipe")
 print("hola soy  daniel")
 print("hola soy danny sanchez")
 
-def suma(x, z):
-    return x + z
+def suma(a, b):
+    return a + b
